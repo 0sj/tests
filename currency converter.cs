@@ -12,4 +12,4 @@
         Console.WriteLine("you have " + Amount + "NZD");
     }
 }
-//meowemdfnjvsdfbnvjdfsgbfgebknb nk
+//meowemdfnjvsdfbnvjdfsgbfgebknb nk d
